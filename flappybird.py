@@ -2,6 +2,8 @@ import pygame
 import os
 import random
 
+# Projeto flappybird usando NEAT
+
 TELA_LARGURA = 500
 TELA_ALTURA = 800
 
