@@ -1,3 +1,3 @@
-# Projeto para o TCC
+# Projeto para Estágio Obrigatório
 
-Projeto feito para a apresentação do projeto final do Bacharel em Ciência da Computação, na universidade PUC Minas campus Poços de Caldas
+Projeto feito para a apresentação do projeto de estágio obrigatório em Ciência da Computação, na universidade PUC Minas campus Poços de Caldas
